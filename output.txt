@@ -1,0 +1,1698 @@
+First Come First Serve
+
+Run: 1
+D Arrival: 4 Burst: 1
+S Arrival: 5 Burst: 6
+C Arrival: 6 Burst: 4
+U Arrival: 9 Burst: 2
+B Arrival: 11 Burst: 1
+G Arrival: 15 Burst: 1
+L Arrival: 16 Burst: 8
+M Arrival: 25 Burst: 6
+I Arrival: 28 Burst: 2
+Q Arrival: 30 Burst: 5
+K Arrival: 42 Burst: 8
+T Arrival: 49 Burst: 7
+O Arrival: 56 Burst: 7
+A Arrival: 63 Burst: 7
+E Arrival: 70 Burst: 6
+N Arrival: 75 Burst: 2
+P Arrival: 77 Burst: 9
+R Arrival: 78 Burst: 7
+J Arrival: 81 Burst: 10
+H Arrival: 82 Burst: 7
+____DSSSSSSCCCCUUBGLLLLLLLLMMMMMMIIQQQQQ__KKKKKKKKTTTTTTTOOOOOOOAAAAAAAEEEEEENNPPPPPPPPPRRRRRRRJJJJJJJJJJHHHHHHH
+WaitTimes: [0, 0, 5, 6, 6, 3, 3, 2, 5, 5, 0, 1, 1, 1, 1, 2, 2, 10, 14, 23]
+Average WaitTime: 4
+TurnaroundTimes: [1, 6, 9, 8, 7, 4, 11, 8, 7, 10, 8, 8, 8, 8, 7, 4, 11, 17, 24, 30]
+Average TurnaroundTimes: 9
+Throughput: 19
+
+Run: 2
+F Arrival: 1 Burst: 9
+L Arrival: 2 Burst: 3
+H Arrival: 3 Burst: 10
+R Arrival: 4 Burst: 9
+D Arrival: 9 Burst: 5
+J Arrival: 9 Burst: 7
+O Arrival: 10 Burst: 5
+U Arrival: 12 Burst: 10
+Q Arrival: 14 Burst: 3
+M Arrival: 17 Burst: 1
+A Arrival: 30 Burst: 9
+T Arrival: 41 Burst: 10
+K Arrival: 45 Burst: 6
+P Arrival: 48 Burst: 4
+N Arrival: 50 Burst: 1
+G Arrival: 52 Burst: 4
+C Arrival: 58 Burst: 1
+B Arrival: 59 Burst: 3
+E Arrival: 59 Burst: 5
+I Arrival: 69 Burst: 9
+_FFFFFFFFFLLLHHHHHHHHHHRRRRRRRRRDDDDDJJJJJJJOOOOOUUUUUUUUUUQQQMAAAAAAAAATTTTTTTTTTKKKKKKPPPPNGGGGCBBBEEEEEIIIIIIIII
+WaitTimes: [0, 8, 10, 19, 23, 28, 34, 37, 45, 45, 33, 31, 37, 40, 42, 41, 39, 39, 42, 37]
+Average WaitTime: 31
+TurnaroundTimes: [9, 11, 20, 28, 28, 35, 39, 47, 48, 46, 42, 41, 43, 44, 43, 45, 40, 42, 47, 46]
+Average TurnaroundTimes: 37
+Throughput: 18
+
+Run: 3
+K Arrival: 9 Burst: 6
+L Arrival: 11 Burst: 4
+S Arrival: 15 Burst: 4
+E Arrival: 22 Burst: 9
+C Arrival: 23 Burst: 5
+F Arrival: 25 Burst: 9
+I Arrival: 25 Burst: 5
+J Arrival: 35 Burst: 7
+U Arrival: 45 Burst: 3
+D Arrival: 55 Burst: 9
+H Arrival: 62 Burst: 8
+R Arrival: 64 Burst: 4
+M Arrival: 65 Burst: 2
+T Arrival: 66 Burst: 3
+G Arrival: 71 Burst: 1
+Q Arrival: 73 Burst: 9
+P Arrival: 79 Burst: 2
+B Arrival: 82 Burst: 4
+N Arrival: 82 Burst: 8
+O Arrival: 88 Burst: 6
+_________KKKKKKLLLLSSSSEEEEEEEEECCCCCFFFFFFFFFIIIIIJJJJJJJUUUDDDDDDDDDHHHHHHHHRRRRMMTTTGQQQQQQQQQPPBBBBNNNNNNNNOOOOOO
+WaitTimes: [0, 4, 4, 1, 9, 12, 21, 16, 13, 6, 8, 14, 17, 18, 16, 15, 18, 17, 21, 23]
+Average WaitTime: 12
+TurnaroundTimes: [6, 8, 8, 10, 14, 21, 26, 23, 16, 15, 16, 18, 19, 21, 17, 24, 20, 21, 29, 29]
+Average TurnaroundTimes: 18
+Throughput: 18
+
+Run: 4
+M Arrival: 6 Burst: 1
+G Arrival: 18 Burst: 3
+T Arrival: 27 Burst: 7
+L Arrival: 31 Burst: 6
+O Arrival: 31 Burst: 2
+B Arrival: 35 Burst: 10
+I Arrival: 37 Burst: 6
+S Arrival: 39 Burst: 9
+D Arrival: 40 Burst: 9
+J Arrival: 49 Burst: 8
+F Arrival: 51 Burst: 5
+E Arrival: 52 Burst: 5
+R Arrival: 53 Burst: 3
+K Arrival: 59 Burst: 2
+P Arrival: 60 Burst: 6
+A Arrival: 61 Burst: 3
+H Arrival: 68 Burst: 5
+N Arrival: 79 Burst: 2
+C Arrival: 86 Burst: 2
+Q Arrival: 87 Burst: 4
+______M___________GGG______TTTTTTTLLLLLLOOBBBBBBBBBBIIIIIISSSSSSSSSDDDDDDDDDJJJJJJJJFFFFFEEEEERRRKKPPPPPPAAAHHHHHNNCCQQQQ
+WaitTimes: [0, 0, 0, 3, 9, 7, 15, 19, 27, 27, 33, 37, 41, 38, 39, 44, 40, 34, 29, 30]
+Average WaitTime: 23
+TurnaroundTimes: [1, 3, 7, 9, 11, 17, 21, 28, 36, 35, 38, 42, 44, 40, 45, 47, 45, 36, 31, 34]
+Average TurnaroundTimes: 28
+Throughput: 15
+
+Run: 5
+M Arrival: 11 Burst: 1
+F Arrival: 13 Burst: 5
+K Arrival: 20 Burst: 7
+U Arrival: 21 Burst: 7
+A Arrival: 23 Burst: 1
+J Arrival: 23 Burst: 1
+I Arrival: 38 Burst: 7
+P Arrival: 38 Burst: 5
+L Arrival: 39 Burst: 10
+S Arrival: 46 Burst: 1
+B Arrival: 48 Burst: 8
+O Arrival: 50 Burst: 10
+N Arrival: 52 Burst: 6
+R Arrival: 67 Burst: 7
+G Arrival: 69 Burst: 2
+T Arrival: 72 Burst: 4
+E Arrival: 73 Burst: 2
+C Arrival: 76 Burst: 3
+Q Arrival: 83 Burst: 2
+D Arrival: 85 Burst: 9
+___________M_FFFFF__KKKKKKKUUUUUUUAJ__IIIIIIIPPPPPLLLLLLLLLLSBBBBBBBBOOOOOOOOOONNNNNNRRRRRRRGGTTTTEECCCQQDDDDDDDDD
+WaitTimes: [0, 0, 0, 6, 11, 12, 0, 7, 11, 14, 13, 19, 27, 18, 23, 22, 25, 24, 20, 20]
+Average WaitTime: 13
+TurnaroundTimes: [1, 5, 7, 13, 12, 13, 7, 12, 21, 15, 21, 29, 33, 25, 25, 26, 27, 27, 22, 29]
+Average TurnaroundTimes: 18
+Throughput: 17
+
+Average WaitTime for 5 runs : 16
+Average TurnaroundTime for 5 runs : 22
+Average ResponseTime for 5 runs : 16
+Average Throughput for 5 runs : 17
+
+-----------------------------------------------------------------------------------
+Shortest Job First
+
+Run: 1
+D Arrival: 7 Burst: 2
+B Arrival: 9 Burst: 6
+P Arrival: 9 Burst: 3
+Q Arrival: 12 Burst: 2
+Q Arrival: 12 Burst: 2
+P Arrival: 9 Burst: 3
+P Arrival: 9 Burst: 3
+B Arrival: 9 Burst: 6
+M Arrival: 8 Burst: 8
+Q Arrival: 12 Burst: 2
+K Arrival: 38 Burst: 1
+T Arrival: 56 Burst: 8
+C Arrival: 73 Burst: 8
+H Arrival: 74 Burst: 1
+U Arrival: 74 Burst: 8
+F Arrival: 84 Burst: 3
+F Arrival: 84 Burst: 3
+N Arrival: 84 Burst: 4
+N Arrival: 84 Burst: 4
+N Arrival: 84 Burst: 4
+_______DDBBBBBBPPPQQQQPPPPPPBBBBBBMMMMMMMMQQKTTTTTTTTCCCCCCCCHUUUUUUUUFFFFFFNNNNNNNNNNNN
+WaitTimes: [0, 0, 6, 6, 8, 13, 16, 19, 26, 30, 6, 7, 8, 6, 9, 12, 16, 20, 0, 0, 0]
+Average WaitTime: 9
+TurnaroundTimes: [0, 2, 6, 3, 2, 2, 3, 3, 6, 8, 2, 1, 1, 8, 3, 3, 4, 4, 4, 0, 0]
+Average TurnaroundTimes: 3
+Throughput: 18
+
+Run: 2
+A Arrival: 8 Burst: 9
+H Arrival: 11 Burst: 9
+E Arrival: 18 Burst: 8
+D Arrival: 31 Burst: 3
+D Arrival: 31 Burst: 3
+D Arrival: 31 Burst: 3
+D Arrival: 31 Burst: 3
+D Arrival: 31 Burst: 3
+F Arrival: 33 Burst: 6
+F Arrival: 33 Burst: 6
+F Arrival: 33 Burst: 6
+S Arrival: 63 Burst: 4
+S Arrival: 63 Burst: 4
+S Arrival: 63 Burst: 4
+S Arrival: 63 Burst: 4
+F Arrival: 33 Burst: 6
+N Arrival: 87 Burst: 5
+P Arrival: 88 Burst: 1
+P Arrival: 88 Burst: 1
+P Arrival: 88 Burst: 1
+________AAAAAAAAAHHHHHHHHHEEEEEEEEDDDDDDDDDDDDDDDFFFFFFFFFFFFFFFFFFSSSSSSSSSSSSSSSSFFFFFFNNNNNPPP
+WaitTimes: [0, 6, 8, 3, 6, 9, 12, 15, 16, 22, 28, 4, 8, 12, 16, 50, 2, 6, 7, 8, 0]
+Average WaitTime: 11
+TurnaroundTimes: [0, 9, 9, 8, 3, 3, 3, 3, 3, 6, 6, 6, 4, 4, 4, 4, 6, 5, 1, 1, 1]
+Average TurnaroundTimes: 4
+Throughput: 20
+
+Run: 3
+I Arrival: 1 Burst: 1
+Q Arrival: 5 Burst: 2
+H Arrival: 6 Burst: 5
+K Arrival: 10 Burst: 1
+T Arrival: 10 Burst: 1
+K Arrival: 10 Burst: 1
+T Arrival: 10 Burst: 1
+J Arrival: 10 Burst: 3
+T Arrival: 10 Burst: 1
+E Arrival: 30 Burst: 6
+U Arrival: 32 Burst: 5
+N Arrival: 43 Burst: 2
+D Arrival: 49 Burst: 9
+R Arrival: 49 Burst: 3
+C Arrival: 53 Burst: 1
+C Arrival: 53 Burst: 1
+P Arrival: 56 Burst: 6
+P Arrival: 56 Burst: 6
+P Arrival: 56 Burst: 6
+A Arrival: 52 Burst: 8
+_IQQHHHHHKTKTJJJTEEEEEEUUUUUNNDDDDDDDDDRRRCCPPPPPPPPPPPPPPPPPPAAAAAAAA
+WaitTimes: [0, 1, 2, 3, 4, 5, 6, 9, 4, 9, 8, 9, 7, 13, 19, 29, 0, 0, 0, 0, 0]
+Average WaitTime: 6
+TurnaroundTimes: [0, 1, 5, 1, 1, 1, 1, 3, 1, 5, 3, 1, 1, 6, 6, 6, 8, 0, 0, 0, 0]
+Average TurnaroundTimes: 2
+Throughput: 20
+
+Run: 4
+A Arrival: 2 Burst: 1
+G Arrival: 6 Burst: 9
+I Arrival: 7 Burst: 8
+D Arrival: 9 Burst: 3
+H Arrival: 15 Burst: 8
+H Arrival: 15 Burst: 8
+H Arrival: 15 Burst: 8
+S Arrival: 37 Burst: 2
+S Arrival: 37 Burst: 2
+P Arrival: 49 Burst: 2
+S Arrival: 37 Burst: 2
+P Arrival: 49 Burst: 2
+S Arrival: 37 Burst: 2
+P Arrival: 49 Burst: 2
+P Arrival: 49 Burst: 2
+P Arrival: 49 Burst: 2
+K Arrival: 48 Burst: 3
+K Arrival: 48 Burst: 3
+J Arrival: 51 Burst: 3
+K Arrival: 48 Burst: 3
+__AGGGGGGGGGIIIIIIIIDDDHHHHHHHHHHHHHHHHHHHHHHHHSSSSPPSSPPSSPPPPPPKKKKKKJJJKKK
+WaitTimes: [0, 8, 14, 11, 19, 27, 13, 15, 5, 19, 9, 23, 13, 15, 17, 20, 23, 23, 29, 0, 0]
+Average WaitTime: 14
+TurnaroundTimes: [0, 1, 8, 3, 8, 8, 8, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 0]
+Average TurnaroundTimes: 3
+Throughput: 20
+
+Run: 5
+B Arrival: 5 Burst: 5
+N Arrival: 7 Burst: 5
+T Arrival: 25 Burst: 3
+O Arrival: 27 Burst: 7
+Q Arrival: 35 Burst: 6
+S Arrival: 35 Burst: 4
+S Arrival: 35 Burst: 4
+P Arrival: 44 Burst: 3
+P Arrival: 44 Burst: 3
+P Arrival: 44 Burst: 3
+S Arrival: 35 Burst: 4
+U Arrival: 46 Burst: 4
+U Arrival: 46 Burst: 4
+F Arrival: 63 Burst: 3
+F Arrival: 63 Burst: 3
+D Arrival: 76 Burst: 2
+M Arrival: 72 Burst: 3
+U Arrival: 46 Burst: 4
+K Arrival: 40 Burst: 5
+K Arrival: 40 Burst: 5
+_____BBBBBNNNNNTTTOOOOOOOQQQQQQSSSSSSSSPPPPPPPPPSSSSUUUUUUUUFFFFFFDDMMMUUUUKKKKKKKKKK
+WaitTimes: [0, 3, 1, 0, 6, 10, 5, 8, 11, 23, 16, 20, 7, 10, 0, 6, 35, 45, 50, 0, 0]
+Average WaitTime: 12
+TurnaroundTimes: [0, 5, 5, 7, 6, 4, 4, 3, 3, 3, 4, 4, 4, 3, 3, 2, 3, 4, 5, 5, 0]
+Average TurnaroundTimes: 3
+Throughput: 20
+
+Average WaitTime for 5 runs : 10
+Average TurnaroundTime for 5 runs : 3
+Average ResponseTime for 5 runs : 10
+Average Throughput for 5 runs : 19
+-----------------------------------------------------------------------------------
+Shortest Remaining Time
+
+Run: 1
+F Arrival: 2 Burst: 5
+G Arrival: 5 Burst: 3
+G Arrival: 5 Burst: 3
+G Arrival: 5 Burst: 3
+J Arrival: 12 Burst: 1
+J Arrival: 12 Burst: 1
+J Arrival: 12 Burst: 1
+S Arrival: 4 Burst: 8
+L Arrival: 24 Burst: 1
+E Arrival: 25 Burst: 4
+E Arrival: 25 Burst: 4
+U Arrival: 4 Burst: 9
+K Arrival: 29 Burst: 3
+U Arrival: 4 Burst: 9
+C Arrival: 17 Burst: 9
+Q Arrival: 40 Burst: 4
+C Arrival: 17 Burst: 9
+T Arrival: 6 Burst: 10
+T Arrival: 6 Burst: 10
+M Arrival: 66 Burst: 2
+__FFFFFGGGGGGGGGJJJSSSSSSSSLEEEEEEEEUUUUUUUUUKKKUUUUUUUUUCCCCCCCCCQQQQCCCCCCCCCTTTTTTTTTTTTTTTTTTTTMM
+WaitTimes: [0, 2, 5, 8, 4, 5, 6, 15, 3, 3, 7, 32, 16, 44, 40, 26, 53, 73, 83, 33, 0]
+Average WaitTime: 21
+TurnaroundTimes: [0, 5, 3, 3, 3, 1, 1, 1, 8, 1, 4, 4, 9, 3, 9, 9, 4, 9, 10, 10, 2]
+Average TurnaroundTimes: 4
+Throughput: 20
+
+Run: 2
+A Arrival: 2 Burst: 7
+I Arrival: 2 Burst: 2
+B Arrival: 7 Burst: 1
+B Arrival: 7 Burst: 1
+L Arrival: 2 Burst: 8
+L Arrival: 2 Burst: 8
+B Arrival: 7 Burst: 1
+C Arrival: 29 Burst: 8
+C Arrival: 29 Burst: 8
+T Arrival: 35 Burst: 1
+M Arrival: 30 Burst: 8
+T Arrival: 35 Burst: 1
+G Arrival: 54 Burst: 6
+Q Arrival: 56 Burst: 4
+Q Arrival: 56 Burst: 4
+D Arrival: 55 Burst: 6
+D Arrival: 55 Burst: 6
+U Arrival: 67 Burst: 7
+P Arrival: 78 Burst: 2
+O Arrival: 89 Burst: 1
+__AAAAAAAIIBBLLLLLLLLLLLLLLLLBCCCCCCCCCCCCCCCCTMMMMMMMMTGGGGGGQQQQQQQQDDDDDDDDDDDDUUUUUUUPPO
+WaitTimes: [0, 7, 4, 5, 11, 19, 22, 1, 9, 11, 17, 20, 2, 6, 10, 15, 21, 15, 11, 2, 0]
+Average WaitTime: 9
+TurnaroundTimes: [0, 7, 2, 1, 1, 8, 8, 1, 8, 8, 1, 8, 1, 6, 4, 4, 6, 6, 7, 2, 1]
+Average TurnaroundTimes: 4
+Throughput: 20
+
+Run: 3
+L Arrival: 6 Burst: 1
+M Arrival: 7 Burst: 5
+P Arrival: 11 Burst: 9
+C Arrival: 12 Burst: 1
+C Arrival: 12 Burst: 1
+S Arrival: 19 Burst: 3
+S Arrival: 19 Burst: 3
+S Arrival: 19 Burst: 3
+B Arrival: 13 Burst: 4
+B Arrival: 13 Burst: 4
+O Arrival: 31 Burst: 4
+H Arrival: 32 Burst: 4
+H Arrival: 32 Burst: 4
+U Arrival: 27 Burst: 5
+K Arrival: 36 Burst: 7
+K Arrival: 36 Burst: 7
+N Arrival: 44 Burst: 3
+A Arrival: 81 Burst: 1
+J Arrival: 85 Burst: 9
+Q Arrival: 88 Burst: 9
+______LMMMMMPPPPPPPPPCCSSSSSSSSSBBBBBBBBOOOOHHHHHHHHUUUUUKKKKKKKKKKKKKKNNNAJJJJJJJJJQQQQQQQQQ
+WaitTimes: [0, 0, 1, 9, 10, 4, 7, 10, 19, 23, 9, 12, 16, 25, 21, 28, 27, 6, 0, 0, 0]
+Average WaitTime: 10
+TurnaroundTimes: [0, 1, 5, 9, 1, 1, 3, 3, 3, 4, 4, 4, 4, 4, 5, 7, 7, 3, 9, 0, 0]
+Average TurnaroundTimes: 3
+Throughput: 20
+
+Run: 4
+J Arrival: 5 Burst: 1
+F Arrival: 8 Burst: 9
+E Arrival: 16 Burst: 8
+N Arrival: 18 Burst: 8
+O Arrival: 34 Burst: 3
+T Arrival: 38 Burst: 5
+B Arrival: 43 Burst: 9
+U Arrival: 44 Burst: 5
+K Arrival: 53 Burst: 6
+P Arrival: 54 Burst: 2
+P Arrival: 54 Burst: 2
+P Arrival: 54 Burst: 2
+P Arrival: 54 Burst: 2
+K Arrival: 53 Burst: 6
+H Arrival: 70 Burst: 4
+S Arrival: 72 Burst: 4
+G Arrival: 81 Burst: 3
+K Arrival: 53 Burst: 6
+M Arrival: 88 Burst: 2
+M Arrival: 88 Burst: 2
+_____JFFFFFFFFFEEEEEEEENNNNNNNNOOOTTTTTBBBBBBBBBUUUUUKKKKKKPPPPPPPPKKKKKKHHHHSSSSGGGKKKKKKMMMM
+WaitTimes: [0, 1, 7, 0, 8, 4, 9, 11, 13, 15, 18, 7, 9, 4, 35, 6, 8, 0, 0, 0, 0]
+Average WaitTime: 7
+TurnaroundTimes: [0, 1, 8, 8, 9, 5, 6, 2, 2, 2, 2, 6, 4, 4, 3, 6, 2, 2, 0, 0, 0]
+Average TurnaroundTimes: 3
+Throughput: 20
+
+Run: 5
+G Arrival: 1 Burst: 10
+E Arrival: 2 Burst: 5
+J Arrival: 11 Burst: 5
+S Arrival: 12 Burst: 4
+S Arrival: 12 Burst: 4
+S Arrival: 12 Burst: 4
+M Arrival: 24 Burst: 4
+S Arrival: 12 Burst: 4
+M Arrival: 24 Burst: 4
+M Arrival: 24 Burst: 4
+N Arrival: 42 Burst: 2
+M Arrival: 24 Burst: 4
+J Arrival: 11 Burst: 5
+J Arrival: 11 Burst: 5
+J Arrival: 11 Burst: 5
+H Arrival: 23 Burst: 6
+H Arrival: 23 Burst: 6
+H Arrival: 23 Burst: 6
+T Arrival: 80 Burst: 5
+C Arrival: 5 Burst: 7
+_GGGGGGGGGGEEEEEJJJJJSSSSSSSSSSSSMMMMSSSSMMMMMMMMNNMMMMJJJJJJJJJJJJJJJHHHHHHHHHHHHHHHHHHTTTTTCCCCCCC
+WaitTimes: [0, 9, 5, 9, 13, 17, 9, 25, 17, 21, 7, 27, 44, 49, 54, 47, 53, 59, 8, 88, 0]
+Average WaitTime: 26
+TurnaroundTimes: [0, 10, 5, 5, 4, 4, 4, 4, 4, 4, 4, 2, 4, 5, 5, 5, 6, 6, 6, 5, 7]
+Average TurnaroundTimes: 4
+Throughput: 20
+
+Average WaitTime for 5 runs : 14
+Average TurnaroundTime for 5 runs : 3
+Average ResponseTime for 5 runs : 14
+Average Throughput for 5 runs : 20
+-----------------------------------------------------------------------------------
+Highest Priority First Nonpreemptive
+
+Run: 1
+A Arrival: 5 Burst: 6
+O Arrival: 8 Burst: 3
+H Arrival: 18 Burst: 9
+P Arrival: 29 Burst: 7
+R Arrival: 42 Burst: 3
+M Arrival: 43 Burst: 7
+O Arrival: 8 Burst: 3
+O Arrival: 8 Burst: 3
+F Arrival: 61 Burst: 10
+S Arrival: 62 Burst: 6
+O Arrival: 8 Burst: 3
+O Arrival: 8 Burst: 3
+O Arrival: 8 Burst: 3
+O Arrival: 8 Burst: 3
+O Arrival: 8 Burst: 3
+O Arrival: 8 Burst: 3
+O Arrival: 8 Burst: 3
+O Arrival: 8 Burst: 3
+O Arrival: 8 Burst: 3
+O Arrival: 8 Burst: 3
+WaitTimes: [0, 3, 2, 44, 47, 9, 69, 72, 75, 78, 81, 84, 87, 90, 93, 96, 0, 0, 0, 0, 0]
+Average WaitTime: 46
+TurnaroundTimes: [0, 6, 3, 7, 3, 3, 6, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 0, 0, 0, 0]
+Average TurnaroundTimes: 2
+Throughput: 20
+
+Run: 2
+F Arrival: 7 Burst: 5
+I Arrival: 9 Burst: 1
+C Arrival: 16 Burst: 10
+G Arrival: 17 Burst: 6
+K Arrival: 33 Burst: 2
+M Arrival: 50 Burst: 9
+U Arrival: 54 Burst: 1
+I Arrival: 9 Burst: 1
+I Arrival: 9 Burst: 1
+I Arrival: 9 Burst: 1
+I Arrival: 9 Burst: 1
+I Arrival: 9 Burst: 1
+B Arrival: 66 Burst: 3
+E Arrival: 72 Burst: 10
+J Arrival: 75 Burst: 3
+I Arrival: 9 Burst: 1
+I Arrival: 9 Burst: 1
+I Arrival: 9 Burst: 1
+I Arrival: 9 Burst: 1
+I Arrival: 9 Burst: 1
+WaitTimes: [0, 3, 9, 5, 51, 52, 53, 54, 55, 7, 76, 77, 78, 79, 80, 0, 0, 0, 0, 0, 0]
+Average WaitTime: 33
+TurnaroundTimes: [0, 5, 1, 6, 1, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0]
+Average TurnaroundTimes: 1
+Throughput: 20
+
+Run: 3
+D Arrival: 9 Burst: 6
+K Arrival: 14 Burst: 4
+E Arrival: 20 Burst: 7
+J Arrival: 22 Burst: 1
+K Arrival: 14 Burst: 4
+A Arrival: 34 Burst: 3
+T Arrival: 34 Burst: 9
+K Arrival: 14 Burst: 4
+K Arrival: 14 Burst: 4
+K Arrival: 14 Burst: 4
+K Arrival: 14 Burst: 4
+K Arrival: 14 Burst: 4
+K Arrival: 14 Burst: 4
+K Arrival: 14 Burst: 4
+K Arrival: 14 Burst: 4
+K Arrival: 14 Burst: 4
+K Arrival: 14 Burst: 4
+K Arrival: 14 Burst: 4
+K Arrival: 14 Burst: 4
+K Arrival: 14 Burst: 4
+WaitTimes: [0, 1, 5, 14, 3, 32, 36, 40, 44, 48, 52, 56, 60, 64, 68, 72, 76, 80, 0, 0, 0]
+Average WaitTime: 37
+TurnaroundTimes: [0, 6, 4, 1, 4, 9, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0]
+Average TurnaroundTimes: 3
+Throughput: 20
+
+Run: 4
+O Arrival: 1 Burst: 10
+B Arrival: 3 Burst: 4
+B Arrival: 3 Burst: 4
+B Arrival: 3 Burst: 4
+B Arrival: 3 Burst: 4
+B Arrival: 3 Burst: 4
+B Arrival: 3 Burst: 4
+B Arrival: 3 Burst: 4
+B Arrival: 3 Burst: 4
+B Arrival: 3 Burst: 4
+B Arrival: 3 Burst: 4
+B Arrival: 3 Burst: 4
+B Arrival: 3 Burst: 4
+B Arrival: 3 Burst: 4
+B Arrival: 3 Burst: 4
+B Arrival: 3 Burst: 4
+B Arrival: 3 Burst: 4
+B Arrival: 3 Burst: 4
+B Arrival: 3 Burst: 4
+B Arrival: 3 Burst: 4
+WaitTimes: [0, 8, 12, 16, 20, 24, 28, 32, 36, 40, 44, 48, 52, 56, 60, 64, 68, 72, 76, 80, 0]
+Average WaitTime: 41
+TurnaroundTimes: [0, 10, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4]
+Average TurnaroundTimes: 4
+Throughput: 20
+
+Run: 5
+F Arrival: 1 Burst: 10
+O Arrival: 8 Burst: 1
+L Arrival: 22 Burst: 6
+M Arrival: 24 Burst: 10
+O Arrival: 8 Burst: 1
+O Arrival: 8 Burst: 1
+O Arrival: 8 Burst: 1
+O Arrival: 8 Burst: 1
+O Arrival: 8 Burst: 1
+O Arrival: 8 Burst: 1
+C Arrival: 52 Burst: 9
+U Arrival: 52 Burst: 1
+D Arrival: 70 Burst: 1
+T Arrival: 71 Burst: 3
+O Arrival: 8 Burst: 1
+N Arrival: 86 Burst: 7
+P Arrival: 90 Burst: 1
+O Arrival: 8 Burst: 1
+O Arrival: 8 Burst: 1
+G Arrival: 97 Burst: 7
+WaitTimes: [0, 3, 4, 30, 31, 32, 33, 34, 35, 9, 0, 66, 3, 86, 87, 0, 0, 0, 0, 0, 0]
+Average WaitTime: 22
+TurnaroundTimes: [0, 10, 1, 10, 1, 1, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 0, 0, 0, 0, 0]
+Average TurnaroundTimes: 1
+Throughput: 20
+
+Average WaitTime for 5 runs : 35
+Average TurnaroundTime for 5 runs : 2
+Average ResponseTime for 5 runs : 35
+Average Throughput for 5 runs : 20
+-----------------------------------------------------------------------------------
+Highest Priority First Preemptive
+
+Run: 1
+A Priority: 1 Arrival: 7 Burst: 9
+L Priority: 2 Arrival: 9 Burst: 7
+
+A Priority: 1 Arrival: 7 Burst: 9
+B Priority: 1 Arrival: 11 Burst: 3
+
+B Priority: 1 Arrival: 11 Burst: 3
+T Priority: 4 Arrival: 11 Burst: 3
+
+B Priority: 1 Arrival: 11 Burst: 3
+K Priority: 2 Arrival: 22 Burst: 10
+
+B Priority: 1 Arrival: 11 Burst: 3
+J Priority: 3 Arrival: 25 Burst: 2
+
+B Priority: 1 Arrival: 11 Burst: 3
+C Priority: 2 Arrival: 28 Burst: 9
+
+B Priority: 1 Arrival: 11 Burst: 3
+I Priority: 1 Arrival: 31 Burst: 10
+
+I Priority: 1 Arrival: 31 Burst: 10
+G Priority: 2 Arrival: 36 Burst: 9
+
+I Priority: 1 Arrival: 31 Burst: 10
+E Priority: 4 Arrival: 38 Burst: 6
+
+I Priority: 1 Arrival: 31 Burst: 10
+Q Priority: 1 Arrival: 40 Burst: 2
+
+Q Priority: 1 Arrival: 40 Burst: 2
+N Priority: 1 Arrival: 45 Burst: 4
+
+N Priority: 1 Arrival: 45 Burst: 4
+U Priority: 3 Arrival: 47 Burst: 5
+
+N Priority: 1 Arrival: 45 Burst: 4
+R Priority: 1 Arrival: 48 Burst: 6
+
+R Priority: 1 Arrival: 48 Burst: 6
+F Priority: 4 Arrival: 49 Burst: 1
+
+R Priority: 1 Arrival: 48 Burst: 6
+P Priority: 4 Arrival: 55 Burst: 3
+
+R Priority: 1 Arrival: 48 Burst: 6
+M Priority: 2 Arrival: 67 Burst: 6
+
+R Priority: 1 Arrival: 48 Burst: 6
+D Priority: 3 Arrival: 73 Burst: 10
+
+R Priority: 1 Arrival: 48 Burst: 6
+O Priority: 1 Arrival: 75 Burst: 9
+
+O Priority: 1 Arrival: 75 Burst: 9
+H Priority: 1 Arrival: 89 Burst: 10
+
+H Priority: 1 Arrival: 89 Burst: 10
+S Priority: 1 Arrival: 91 Burst: 7
+
+WaitTimes: [0, 12, 15, 25, 27, 19, 28, 32, 38, 39, 42, 48, 0, 0, 0, 0, 0, 0, 0, 0]
+Average WaitTime: 16
+TurnaroundTimes: [9, 15, 18, 28, 30, 29, 38, 36, 44, 45, 48, 54, 0, 0, 0, 0, 0, 0, 0, 0]
+Average TurnaroundTimes: 19
+Throughput: 17
+
+Run: 2
+T Priority: 1 Arrival: 1 Burst: 8
+C Priority: 1 Arrival: 2 Burst: 2
+
+C Priority: 1 Arrival: 2 Burst: 2
+S Priority: 3 Arrival: 5 Burst: 7
+
+C Priority: 1 Arrival: 2 Burst: 2
+D Priority: 3 Arrival: 10 Burst: 10
+
+C Priority: 1 Arrival: 2 Burst: 2
+B Priority: 1 Arrival: 18 Burst: 2
+
+B Priority: 1 Arrival: 18 Burst: 2
+K Priority: 4 Arrival: 30 Burst: 1
+
+B Priority: 1 Arrival: 18 Burst: 2
+Q Priority: 2 Arrival: 32 Burst: 5
+
+B Priority: 1 Arrival: 18 Burst: 2
+M Priority: 4 Arrival: 34 Burst: 5
+
+B Priority: 1 Arrival: 18 Burst: 2
+N Priority: 1 Arrival: 37 Burst: 3
+
+N Priority: 1 Arrival: 37 Burst: 3
+F Priority: 1 Arrival: 43 Burst: 9
+
+F Priority: 1 Arrival: 43 Burst: 9
+L Priority: 4 Arrival: 45 Burst: 7
+
+F Priority: 1 Arrival: 43 Burst: 9
+P Priority: 1 Arrival: 54 Burst: 5
+
+P Priority: 1 Arrival: 54 Burst: 5
+R Priority: 3 Arrival: 58 Burst: 8
+
+P Priority: 1 Arrival: 54 Burst: 5
+H Priority: 1 Arrival: 59 Burst: 9
+
+H Priority: 1 Arrival: 59 Burst: 9
+A Priority: 1 Arrival: 70 Burst: 9
+
+A Priority: 1 Arrival: 70 Burst: 9
+I Priority: 2 Arrival: 82 Burst: 9
+
+A Priority: 1 Arrival: 70 Burst: 9
+J Priority: 1 Arrival: 84 Burst: 5
+
+J Priority: 1 Arrival: 84 Burst: 5
+G Priority: 3 Arrival: 85 Burst: 6
+
+J Priority: 1 Arrival: 84 Burst: 5
+O Priority: 3 Arrival: 87 Burst: 4
+
+J Priority: 1 Arrival: 84 Burst: 5
+U Priority: 3 Arrival: 92 Burst: 9
+
+J Priority: 1 Arrival: 84 Burst: 5
+E Priority: 1 Arrival: 95 Burst: 4
+
+WaitTimes: [7, 14, 10, 11, 16, 1, 6, 12, 16, 22, 26, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Average WaitTime: 7
+TurnaroundTimes: [9, 16, 12, 13, 18, 10, 11, 21, 21, 27, 31, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Average TurnaroundTimes: 9
+Throughput: 16
+
+Run: 3
+G Priority: 2 Arrival: 4 Burst: 4
+H Priority: 2 Arrival: 12 Burst: 9
+
+H Priority: 2 Arrival: 12 Burst: 9
+K Priority: 4 Arrival: 12 Burst: 1
+
+H Priority: 2 Arrival: 12 Burst: 9
+C Priority: 4 Arrival: 16 Burst: 6
+
+H Priority: 2 Arrival: 12 Burst: 9
+L Priority: 3 Arrival: 19 Burst: 10
+
+H Priority: 2 Arrival: 12 Burst: 9
+M Priority: 2 Arrival: 28 Burst: 4
+
+M Priority: 2 Arrival: 28 Burst: 4
+T Priority: 1 Arrival: 28 Burst: 5
+
+T Priority: 1 Arrival: 28 Burst: 5
+F Priority: 4 Arrival: 36 Burst: 9
+
+T Priority: 1 Arrival: 28 Burst: 5
+U Priority: 1 Arrival: 42 Burst: 5
+
+U Priority: 1 Arrival: 42 Burst: 5
+O Priority: 2 Arrival: 44 Burst: 2
+
+U Priority: 1 Arrival: 42 Burst: 5
+B Priority: 2 Arrival: 53 Burst: 7
+
+U Priority: 1 Arrival: 42 Burst: 5
+Q Priority: 4 Arrival: 70 Burst: 2
+
+U Priority: 1 Arrival: 42 Burst: 5
+R Priority: 1 Arrival: 70 Burst: 10
+
+R Priority: 1 Arrival: 70 Burst: 10
+E Priority: 4 Arrival: 71 Burst: 8
+
+R Priority: 1 Arrival: 70 Burst: 10
+S Priority: 2 Arrival: 71 Burst: 10
+
+R Priority: 1 Arrival: 70 Burst: 10
+I Priority: 1 Arrival: 72 Burst: 6
+
+I Priority: 1 Arrival: 72 Burst: 6
+A Priority: 4 Arrival: 74 Burst: 10
+
+I Priority: 1 Arrival: 72 Burst: 6
+J Priority: 3 Arrival: 81 Burst: 7
+
+I Priority: 1 Arrival: 72 Burst: 6
+D Priority: 2 Arrival: 82 Burst: 2
+
+I Priority: 1 Arrival: 72 Burst: 6
+P Priority: 1 Arrival: 84 Burst: 5
+
+P Priority: 1 Arrival: 84 Burst: 5
+N Priority: 3 Arrival: 96 Burst: 2
+
+WaitTimes: [0, 0, 3, 10, 10, 12, 19, 0, 6, 24, 34, 41, 0, 0, 0, 0, 0, 0, 0, 0]
+Average WaitTime: 7
+TurnaroundTimes: [9, 9, 12, 15, 15, 17, 24, 10, 16, 30, 40, 47, 0, 0, 0, 0, 0, 0, 0, 0]
+Average TurnaroundTimes: 12
+Throughput: 16
+
+Run: 4
+C Priority: 1 Arrival: 1 Burst: 2
+Q Priority: 1 Arrival: 3 Burst: 3
+
+Q Priority: 1 Arrival: 3 Burst: 3
+L Priority: 4 Arrival: 4 Burst: 8
+
+L Priority: 4 Arrival: 4 Burst: 8
+Q Priority: 1 Arrival: 3 Burst: 3
+
+Q Priority: 1 Arrival: 3 Burst: 3
+Q Priority: 1 Arrival: 3 Burst: 3
+
+Q Priority: 1 Arrival: 3 Burst: 3
+T Priority: 1 Arrival: 4 Burst: 10
+
+T Priority: 1 Arrival: 4 Burst: 10
+U Priority: 2 Arrival: 8 Burst: 8
+
+T Priority: 1 Arrival: 4 Burst: 10
+A Priority: 3 Arrival: 11 Burst: 4
+
+T Priority: 1 Arrival: 4 Burst: 10
+O Priority: 1 Arrival: 24 Burst: 8
+
+O Priority: 1 Arrival: 24 Burst: 8
+N Priority: 2 Arrival: 28 Burst: 1
+
+O Priority: 1 Arrival: 24 Burst: 8
+R Priority: 2 Arrival: 38 Burst: 8
+
+O Priority: 1 Arrival: 24 Burst: 8
+B Priority: 2 Arrival: 41 Burst: 5
+
+O Priority: 1 Arrival: 24 Burst: 8
+J Priority: 1 Arrival: 48 Burst: 3
+
+J Priority: 1 Arrival: 48 Burst: 3
+D Priority: 3 Arrival: 75 Burst: 2
+
+J Priority: 1 Arrival: 48 Burst: 3
+I Priority: 3 Arrival: 81 Burst: 6
+
+J Priority: 1 Arrival: 48 Burst: 3
+P Priority: 3 Arrival: 83 Burst: 6
+
+J Priority: 1 Arrival: 48 Burst: 3
+M Priority: 3 Arrival: 84 Burst: 5
+
+J Priority: 1 Arrival: 48 Burst: 3
+E Priority: 4 Arrival: 87 Burst: 1
+
+J Priority: 1 Arrival: 48 Burst: 3
+H Priority: 4 Arrival: 87 Burst: 6
+
+J Priority: 1 Arrival: 48 Burst: 3
+K Priority: 2 Arrival: 89 Burst: 8
+
+J Priority: 1 Arrival: 48 Burst: 3
+G Priority: 4 Arrival: 94 Burst: 7
+
+J Priority: 1 Arrival: 48 Burst: 3
+S Priority: 3 Arrival: 96 Burst: 3
+
+J Priority: 1 Arrival: 48 Burst: 3
+F Priority: 3 Arrival: 97 Burst: 4
+
+WaitTimes: [0, 14, 22, 16, 17, 25, 14, 16, 22, 28, 33, 34, 40, 48, 55, 0, 0, 0, 0, 0]
+Average WaitTime: 17
+TurnaroundTimes: [3, 24, 32, 24, 25, 33, 17, 19, 25, 31, 36, 37, 43, 51, 58, 0, 0, 0, 0, 0]
+Average TurnaroundTimes: 20
+Throughput: 20
+
+Run: 5
+M Priority: 1 Arrival: 6 Burst: 1
+P Priority: 4 Arrival: 7 Burst: 5
+
+M Priority: 1 Arrival: 6 Burst: 1
+T Priority: 4 Arrival: 9 Burst: 7
+
+M Priority: 1 Arrival: 6 Burst: 1
+A Priority: 3 Arrival: 10 Burst: 2
+
+M Priority: 1 Arrival: 6 Burst: 1
+J Priority: 3 Arrival: 19 Burst: 9
+
+M Priority: 1 Arrival: 6 Burst: 1
+C Priority: 4 Arrival: 20 Burst: 2
+
+M Priority: 1 Arrival: 6 Burst: 1
+F Priority: 2 Arrival: 22 Burst: 1
+
+M Priority: 1 Arrival: 6 Burst: 1
+I Priority: 3 Arrival: 25 Burst: 9
+
+M Priority: 1 Arrival: 6 Burst: 1
+S Priority: 4 Arrival: 25 Burst: 7
+
+M Priority: 1 Arrival: 6 Burst: 1
+U Priority: 2 Arrival: 31 Burst: 4
+
+M Priority: 1 Arrival: 6 Burst: 1
+R Priority: 1 Arrival: 40 Burst: 5
+
+R Priority: 1 Arrival: 40 Burst: 5
+B Priority: 4 Arrival: 44 Burst: 3
+
+R Priority: 1 Arrival: 40 Burst: 5
+L Priority: 1 Arrival: 55 Burst: 6
+
+L Priority: 1 Arrival: 55 Burst: 6
+O Priority: 4 Arrival: 56 Burst: 9
+
+L Priority: 1 Arrival: 55 Burst: 6
+E Priority: 3 Arrival: 58 Burst: 10
+
+L Priority: 1 Arrival: 55 Burst: 6
+D Priority: 2 Arrival: 60 Burst: 4
+
+L Priority: 1 Arrival: 55 Burst: 6
+N Priority: 1 Arrival: 60 Burst: 5
+
+N Priority: 1 Arrival: 60 Burst: 5
+G Priority: 4 Arrival: 76 Burst: 1
+
+N Priority: 1 Arrival: 60 Burst: 5
+H Priority: 3 Arrival: 83 Burst: 10
+
+N Priority: 1 Arrival: 60 Burst: 5
+K Priority: 4 Arrival: 92 Burst: 7
+
+N Priority: 1 Arrival: 60 Burst: 5
+Q Priority: 2 Arrival: 93 Burst: 5
+
+WaitTimes: [0, 5, 12, 14, 23, 25, 26, 35, 42, 13, 6, 15, 25, 30, 31, 41, 0, 0, 0, 0]
+Average WaitTime: 17
+TurnaroundTimes: [1, 6, 13, 15, 24, 26, 27, 36, 43, 18, 12, 21, 31, 35, 36, 46, 0, 0, 0, 0]
+Average TurnaroundTimes: 19
+Throughput: 18
+
+Average WaitTime for 5 runs : 12
+Average TurnaroundTime for 5 runs : 15
+Average ResponseTime for 5 runs : 12
+Average Throughput for 5 runs : 17
+-----------------------------------------------------------------------------------
+Round Robin
+
+Run: 1
+A Arrival: 11 Burst: 8
+A Arrival: 11 Burst: 4
+U Arrival: 15 Burst: 6
+U Arrival: 15 Burst: 4
+S Arrival: 17 Burst: 3
+S Arrival: 17 Burst: 0
+F Arrival: 32 Burst: 3
+F Arrival: 32 Burst: 0
+J Arrival: 43 Burst: 3
+J Arrival: 43 Burst: 2
+K Arrival: 44 Burst: 9
+K Arrival: 44 Burst: 4
+M Arrival: 49 Burst: 6
+M Arrival: 49 Burst: 3
+Q Arrival: 52 Burst: 9
+Q Arrival: 52 Burst: 2
+E Arrival: 59 Burst: 6
+E Arrival: 59 Burst: 2
+G Arrival: 63 Burst: 9
+G Arrival: 63 Burst: 8
+O Arrival: 64 Burst: 4
+O Arrival: 64 Burst: 3
+R Arrival: 65 Burst: 9
+R Arrival: 65 Burst: 6
+L Arrival: 68 Burst: 3
+L Arrival: 68 Burst: 0
+B Arrival: 73 Burst: 10
+B Arrival: 73 Burst: 8
+T Arrival: 75 Burst: 5
+T Arrival: 75 Burst: 0
+D Arrival: 82 Burst: 5
+D Arrival: 82 Burst: 0
+P Arrival: 87 Burst: 4
+P Arrival: 87 Burst: 3
+I Arrival: 88 Burst: 9
+I Arrival: 88 Burst: 6
+C Arrival: 91 Burst: 2
+C Arrival: 91 Burst: 1
+H Arrival: 91 Burst: 5
+H Arrival: 91 Burst: 4
+N Arrival: 96 Burst: 6
+N Arrival: 96 Burst: 5
+A Arrival: 11 Burst: 4
+A Arrival: 11 Burst: 3
+U Arrival: 15 Burst: 4
+U Arrival: 15 Burst: 3
+J Arrival: 43 Burst: 2
+J Arrival: 43 Burst: 1
+K Arrival: 44 Burst: 4
+K Arrival: 44 Burst: 3
+M Arrival: 49 Burst: 3
+M Arrival: 49 Burst: 2
+Q Arrival: 52 Burst: 2
+Q Arrival: 52 Burst: 1
+E Arrival: 59 Burst: 2
+E Arrival: 59 Burst: 1
+G Arrival: 63 Burst: 8
+G Arrival: 63 Burst: 7
+O Arrival: 64 Burst: 3
+O Arrival: 64 Burst: 2
+R Arrival: 65 Burst: 6
+R Arrival: 65 Burst: 5
+B Arrival: 73 Burst: 8
+B Arrival: 73 Burst: 7
+P Arrival: 87 Burst: 3
+P Arrival: 87 Burst: 2
+I Arrival: 88 Burst: 6
+I Arrival: 88 Burst: 5
+C Arrival: 91 Burst: 1
+C Arrival: 91 Burst: 0
+H Arrival: 91 Burst: 4
+H Arrival: 91 Burst: 3
+N Arrival: 96 Burst: 5
+N Arrival: 96 Burst: 4
+A Arrival: 11 Burst: 3
+A Arrival: 11 Burst: 2
+U Arrival: 15 Burst: 3
+U Arrival: 15 Burst: 2
+J Arrival: 43 Burst: 1
+J Arrival: 43 Burst: 0
+K Arrival: 44 Burst: 3
+K Arrival: 44 Burst: 2
+M Arrival: 49 Burst: 2
+M Arrival: 49 Burst: 1
+Q Arrival: 52 Burst: 1
+Q Arrival: 52 Burst: 0
+E Arrival: 59 Burst: 1
+E Arrival: 59 Burst: 0
+G Arrival: 63 Burst: 7
+G Arrival: 63 Burst: 6
+O Arrival: 64 Burst: 2
+O Arrival: 64 Burst: 1
+R Arrival: 65 Burst: 5
+R Arrival: 65 Burst: 4
+B Arrival: 73 Burst: 7
+B Arrival: 73 Burst: 6
+P Arrival: 87 Burst: 2
+P Arrival: 87 Burst: 1
+I Arrival: 88 Burst: 5
+I Arrival: 88 Burst: 4
+H Arrival: 91 Burst: 3
+H Arrival: 91 Burst: 2
+N Arrival: 96 Burst: 4
+N Arrival: 96 Burst: 3
+A Arrival: 11 Burst: 2
+A Arrival: 11 Burst: 1
+U Arrival: 15 Burst: 2
+U Arrival: 15 Burst: 1
+K Arrival: 44 Burst: 2
+K Arrival: 44 Burst: 1
+M Arrival: 49 Burst: 1
+M Arrival: 49 Burst: 0
+G Arrival: 63 Burst: 6
+G Arrival: 63 Burst: 5
+O Arrival: 64 Burst: 1
+O Arrival: 64 Burst: 0
+R Arrival: 65 Burst: 4
+R Arrival: 65 Burst: 3
+B Arrival: 73 Burst: 6
+B Arrival: 73 Burst: 5
+P Arrival: 87 Burst: 1
+P Arrival: 87 Burst: 0
+I Arrival: 88 Burst: 4
+I Arrival: 88 Burst: 3
+H Arrival: 91 Burst: 2
+H Arrival: 91 Burst: 1
+N Arrival: 96 Burst: 3
+N Arrival: 96 Burst: 2
+A Arrival: 11 Burst: 1
+A Arrival: 11 Burst: 0
+U Arrival: 15 Burst: 1
+U Arrival: 15 Burst: 0
+K Arrival: 44 Burst: 1
+K Arrival: 44 Burst: 0
+G Arrival: 63 Burst: 5
+G Arrival: 63 Burst: 4
+R Arrival: 65 Burst: 3
+R Arrival: 65 Burst: 2
+B Arrival: 73 Burst: 5
+B Arrival: 73 Burst: 4
+I Arrival: 88 Burst: 3
+I Arrival: 88 Burst: 2
+H Arrival: 91 Burst: 1
+H Arrival: 91 Burst: 0
+N Arrival: 96 Burst: 2
+N Arrival: 96 Burst: 1
+G Arrival: 63 Burst: 4
+G Arrival: 63 Burst: 3
+R Arrival: 65 Burst: 2
+R Arrival: 65 Burst: 1
+B Arrival: 73 Burst: 4
+B Arrival: 73 Burst: 3
+I Arrival: 88 Burst: 2
+I Arrival: 88 Burst: 1
+N Arrival: 96 Burst: 1
+N Arrival: 96 Burst: 0
+G Arrival: 63 Burst: 3
+G Arrival: 63 Burst: 2
+R Arrival: 65 Burst: 1
+R Arrival: 65 Burst: 0
+B Arrival: 73 Burst: 3
+B Arrival: 73 Burst: 2
+I Arrival: 88 Burst: 1
+I Arrival: 88 Burst: 0
+G Arrival: 63 Burst: 2
+G Arrival: 63 Burst: 1
+B Arrival: 73 Burst: 2
+B Arrival: 73 Burst: 1
+G Arrival: 63 Burst: 1
+G Arrival: 63 Burst: 0
+B Arrival: 73 Burst: 1
+B Arrival: 73 Burst: 0
+___________AAAA____UU__SSS_______________FFF___________J_KKKKK_____MMM___QQQQQQQ_______EEEE____G_O_RRR___LLL_____BB__TTTTT_______DDDDD_____P_III___CHNAUJKMQEGORBPICHNAUJKMQEGORBPIHNAUKMGORBPIHNAUKGRBIHNGRBINGRBIGBGB
+WaitTimes: [0, 0, 0, 0, 0, 14, 66, 54, 51, 73, 62, 42, 118, 117, 86, 48, 48, 78, 57, 85, 75]
+Average WaitTime: 51
+TurnaroundTimes: [3, 3, 3, 5, 5, 16, 69, 63, 57, 79, 66, 46, 126, 123, 95, 53, 54, 87, 66, 94, 85]
+Average TurnaroundTimes: 57
+Throughput: 21
+
+Run: 2
+B Arrival: 8 Burst: 7
+B Arrival: 8 Burst: 6
+Q Arrival: 8 Burst: 2
+Q Arrival: 8 Burst: 1
+T Arrival: 15 Burst: 4
+T Arrival: 15 Burst: 0
+E Arrival: 27 Burst: 5
+E Arrival: 27 Burst: 4
+P Arrival: 27 Burst: 10
+P Arrival: 27 Burst: 9
+M Arrival: 32 Burst: 6
+M Arrival: 32 Burst: 0
+K Arrival: 39 Burst: 6
+K Arrival: 39 Burst: 0
+G Arrival: 45 Burst: 10
+G Arrival: 45 Burst: 9
+A Arrival: 46 Burst: 3
+A Arrival: 46 Burst: 2
+C Arrival: 47 Burst: 1
+C Arrival: 47 Burst: 0
+R Arrival: 47 Burst: 3
+R Arrival: 47 Burst: 2
+J Arrival: 53 Burst: 3
+J Arrival: 53 Burst: 0
+S Arrival: 63 Burst: 9
+S Arrival: 63 Burst: 7
+U Arrival: 65 Burst: 6
+U Arrival: 65 Burst: 5
+H Arrival: 66 Burst: 9
+H Arrival: 66 Burst: 1
+D Arrival: 74 Burst: 2
+D Arrival: 74 Burst: 1
+N Arrival: 74 Burst: 7
+N Arrival: 74 Burst: 6
+F Arrival: 76 Burst: 4
+F Arrival: 76 Burst: 0
+O Arrival: 88 Burst: 1
+O Arrival: 88 Burst: 0
+I Arrival: 92 Burst: 1
+I Arrival: 92 Burst: 0
+L Arrival: 95 Burst: 3
+L Arrival: 95 Burst: 2
+B Arrival: 8 Burst: 6
+B Arrival: 8 Burst: 5
+Q Arrival: 8 Burst: 1
+Q Arrival: 8 Burst: 0
+E Arrival: 27 Burst: 4
+E Arrival: 27 Burst: 3
+P Arrival: 27 Burst: 9
+P Arrival: 27 Burst: 8
+G Arrival: 45 Burst: 9
+G Arrival: 45 Burst: 8
+A Arrival: 46 Burst: 2
+A Arrival: 46 Burst: 1
+R Arrival: 47 Burst: 2
+R Arrival: 47 Burst: 1
+S Arrival: 63 Burst: 7
+S Arrival: 63 Burst: 6
+U Arrival: 65 Burst: 5
+U Arrival: 65 Burst: 4
+H Arrival: 66 Burst: 1
+H Arrival: 66 Burst: 0
+D Arrival: 74 Burst: 1
+D Arrival: 74 Burst: 0
+N Arrival: 74 Burst: 6
+N Arrival: 74 Burst: 5
+L Arrival: 95 Burst: 2
+L Arrival: 95 Burst: 1
+B Arrival: 8 Burst: 5
+B Arrival: 8 Burst: 4
+E Arrival: 27 Burst: 3
+E Arrival: 27 Burst: 2
+P Arrival: 27 Burst: 8
+P Arrival: 27 Burst: 7
+G Arrival: 45 Burst: 8
+G Arrival: 45 Burst: 7
+A Arrival: 46 Burst: 1
+A Arrival: 46 Burst: 0
+R Arrival: 47 Burst: 1
+R Arrival: 47 Burst: 0
+S Arrival: 63 Burst: 6
+S Arrival: 63 Burst: 5
+U Arrival: 65 Burst: 4
+U Arrival: 65 Burst: 3
+N Arrival: 74 Burst: 5
+N Arrival: 74 Burst: 4
+L Arrival: 95 Burst: 1
+L Arrival: 95 Burst: 0
+B Arrival: 8 Burst: 4
+B Arrival: 8 Burst: 3
+E Arrival: 27 Burst: 2
+E Arrival: 27 Burst: 1
+P Arrival: 27 Burst: 7
+P Arrival: 27 Burst: 6
+G Arrival: 45 Burst: 7
+G Arrival: 45 Burst: 6
+S Arrival: 63 Burst: 5
+S Arrival: 63 Burst: 4
+U Arrival: 65 Burst: 3
+U Arrival: 65 Burst: 2
+N Arrival: 74 Burst: 4
+N Arrival: 74 Burst: 3
+B Arrival: 8 Burst: 3
+B Arrival: 8 Burst: 2
+E Arrival: 27 Burst: 1
+E Arrival: 27 Burst: 0
+P Arrival: 27 Burst: 6
+P Arrival: 27 Burst: 5
+G Arrival: 45 Burst: 6
+G Arrival: 45 Burst: 5
+S Arrival: 63 Burst: 4
+S Arrival: 63 Burst: 3
+U Arrival: 65 Burst: 2
+U Arrival: 65 Burst: 1
+N Arrival: 74 Burst: 3
+N Arrival: 74 Burst: 2
+B Arrival: 8 Burst: 2
+B Arrival: 8 Burst: 1
+P Arrival: 27 Burst: 5
+P Arrival: 27 Burst: 4
+G Arrival: 45 Burst: 5
+G Arrival: 45 Burst: 4
+S Arrival: 63 Burst: 3
+S Arrival: 63 Burst: 2
+U Arrival: 65 Burst: 1
+U Arrival: 65 Burst: 0
+N Arrival: 74 Burst: 2
+N Arrival: 74 Burst: 1
+B Arrival: 8 Burst: 1
+B Arrival: 8 Burst: 0
+P Arrival: 27 Burst: 4
+P Arrival: 27 Burst: 3
+G Arrival: 45 Burst: 4
+G Arrival: 45 Burst: 3
+S Arrival: 63 Burst: 2
+S Arrival: 63 Burst: 1
+N Arrival: 74 Burst: 1
+N Arrival: 74 Burst: 0
+P Arrival: 27 Burst: 3
+P Arrival: 27 Burst: 2
+G Arrival: 45 Burst: 3
+G Arrival: 45 Burst: 2
+S Arrival: 63 Burst: 1
+S Arrival: 63 Burst: 0
+P Arrival: 27 Burst: 2
+P Arrival: 27 Burst: 1
+G Arrival: 45 Burst: 2
+G Arrival: 45 Burst: 1
+P Arrival: 27 Burst: 1
+P Arrival: 27 Burst: 0
+G Arrival: 45 Burst: 1
+G Arrival: 45 Burst: 0
+________BQTTTT_________________EPMMMMMM__________KKKKKK______G_A_CRJJJ______________SS__U_HHHHHHHH________DNFFFF____________O____ILBQEPGARSUHDNLBEPGARSUNLBEPGSUNBEPGSUNBPGSUNBPGSNPGSPGPG
+WaitTimes: [0, 0, 0, 0, 0, 0, 0, 0, 85, 28, 28, 62, 62, 18, 93, 64, 122, 60, 72, 110, 93]
+Average WaitTime: 42
+TurnaroundTimes: [4, 6, 6, 1, 3, 4, 1, 1, 87, 37, 30, 65, 65, 21, 98, 70, 129, 67, 81, 120, 103]
+Average TurnaroundTimes: 47
+Throughput: 21
+
+Run: 3
+G Arrival: 9 Burst: 7
+G Arrival: 9 Burst: 3
+D Arrival: 13 Burst: 1
+D Arrival: 13 Burst: 0
+H Arrival: 15 Burst: 3
+H Arrival: 15 Burst: 2
+P Arrival: 15 Burst: 9
+P Arrival: 15 Burst: 8
+F Arrival: 16 Burst: 9
+F Arrival: 16 Burst: 8
+J Arrival: 20 Burst: 2
+J Arrival: 20 Burst: 0
+A Arrival: 26 Burst: 7
+A Arrival: 26 Burst: 6
+Q Arrival: 27 Burst: 7
+Q Arrival: 27 Burst: 2
+T Arrival: 32 Burst: 3
+T Arrival: 32 Burst: 1
+N Arrival: 34 Burst: 1
+N Arrival: 34 Burst: 0
+B Arrival: 38 Burst: 8
+B Arrival: 38 Burst: 3
+U Arrival: 43 Burst: 8
+U Arrival: 43 Burst: 4
+L Arrival: 47 Burst: 3
+L Arrival: 47 Burst: 0
+C Arrival: 53 Burst: 7
+C Arrival: 53 Burst: 6
+K Arrival: 53 Burst: 8
+K Arrival: 53 Burst: 7
+R Arrival: 57 Burst: 5
+R Arrival: 57 Burst: 1
+O Arrival: 59 Burst: 7
+O Arrival: 59 Burst: 3
+I Arrival: 63 Burst: 1
+I Arrival: 63 Burst: 0
+M Arrival: 65 Burst: 7
+M Arrival: 65 Burst: 0
+E Arrival: 76 Burst: 8
+E Arrival: 76 Burst: 7
+S Arrival: 90 Burst: 2
+S Arrival: 90 Burst: 1
+G Arrival: 9 Burst: 3
+G Arrival: 9 Burst: 2
+H Arrival: 15 Burst: 2
+H Arrival: 15 Burst: 1
+P Arrival: 15 Burst: 8
+P Arrival: 15 Burst: 7
+F Arrival: 16 Burst: 8
+F Arrival: 16 Burst: 7
+A Arrival: 26 Burst: 6
+A Arrival: 26 Burst: 5
+Q Arrival: 27 Burst: 2
+Q Arrival: 27 Burst: 1
+T Arrival: 32 Burst: 1
+T Arrival: 32 Burst: 0
+B Arrival: 38 Burst: 3
+B Arrival: 38 Burst: 2
+U Arrival: 43 Burst: 4
+U Arrival: 43 Burst: 3
+C Arrival: 53 Burst: 6
+C Arrival: 53 Burst: 5
+K Arrival: 53 Burst: 7
+K Arrival: 53 Burst: 6
+R Arrival: 57 Burst: 1
+R Arrival: 57 Burst: 0
+O Arrival: 59 Burst: 3
+O Arrival: 59 Burst: 2
+E Arrival: 76 Burst: 7
+E Arrival: 76 Burst: 6
+S Arrival: 90 Burst: 1
+S Arrival: 90 Burst: 0
+G Arrival: 9 Burst: 2
+G Arrival: 9 Burst: 1
+H Arrival: 15 Burst: 1
+H Arrival: 15 Burst: 0
+P Arrival: 15 Burst: 7
+P Arrival: 15 Burst: 6
+F Arrival: 16 Burst: 7
+F Arrival: 16 Burst: 6
+A Arrival: 26 Burst: 5
+A Arrival: 26 Burst: 4
+Q Arrival: 27 Burst: 1
+Q Arrival: 27 Burst: 0
+B Arrival: 38 Burst: 2
+B Arrival: 38 Burst: 1
+U Arrival: 43 Burst: 3
+U Arrival: 43 Burst: 2
+C Arrival: 53 Burst: 5
+C Arrival: 53 Burst: 4
+K Arrival: 53 Burst: 6
+K Arrival: 53 Burst: 5
+O Arrival: 59 Burst: 2
+O Arrival: 59 Burst: 1
+E Arrival: 76 Burst: 6
+E Arrival: 76 Burst: 5
+G Arrival: 9 Burst: 1
+G Arrival: 9 Burst: 0
+P Arrival: 15 Burst: 6
+P Arrival: 15 Burst: 5
+F Arrival: 16 Burst: 6
+F Arrival: 16 Burst: 5
+A Arrival: 26 Burst: 4
+A Arrival: 26 Burst: 3
+B Arrival: 38 Burst: 1
+B Arrival: 38 Burst: 0
+U Arrival: 43 Burst: 2
+U Arrival: 43 Burst: 1
+C Arrival: 53 Burst: 4
+C Arrival: 53 Burst: 3
+K Arrival: 53 Burst: 5
+K Arrival: 53 Burst: 4
+O Arrival: 59 Burst: 1
+O Arrival: 59 Burst: 0
+E Arrival: 76 Burst: 5
+E Arrival: 76 Burst: 4
+P Arrival: 15 Burst: 5
+P Arrival: 15 Burst: 4
+F Arrival: 16 Burst: 5
+F Arrival: 16 Burst: 4
+A Arrival: 26 Burst: 3
+A Arrival: 26 Burst: 2
+U Arrival: 43 Burst: 1
+U Arrival: 43 Burst: 0
+C Arrival: 53 Burst: 3
+C Arrival: 53 Burst: 2
+K Arrival: 53 Burst: 4
+K Arrival: 53 Burst: 3
+E Arrival: 76 Burst: 4
+E Arrival: 76 Burst: 3
+P Arrival: 15 Burst: 4
+P Arrival: 15 Burst: 3
+F Arrival: 16 Burst: 4
+F Arrival: 16 Burst: 3
+A Arrival: 26 Burst: 2
+A Arrival: 26 Burst: 1
+C Arrival: 53 Burst: 2
+C Arrival: 53 Burst: 1
+K Arrival: 53 Burst: 3
+K Arrival: 53 Burst: 2
+E Arrival: 76 Burst: 3
+E Arrival: 76 Burst: 2
+P Arrival: 15 Burst: 3
+P Arrival: 15 Burst: 2
+F Arrival: 16 Burst: 3
+F Arrival: 16 Burst: 2
+A Arrival: 26 Burst: 1
+A Arrival: 26 Burst: 0
+C Arrival: 53 Burst: 1
+C Arrival: 53 Burst: 0
+K Arrival: 53 Burst: 2
+K Arrival: 53 Burst: 1
+E Arrival: 76 Burst: 2
+E Arrival: 76 Burst: 1
+P Arrival: 15 Burst: 2
+P Arrival: 15 Burst: 1
+F Arrival: 16 Burst: 2
+F Arrival: 16 Burst: 1
+K Arrival: 53 Burst: 1
+K Arrival: 53 Burst: 0
+E Arrival: 76 Burst: 1
+E Arrival: 76 Burst: 0
+P Arrival: 15 Burst: 1
+P Arrival: 15 Burst: 0
+F Arrival: 16 Burst: 1
+F Arrival: 16 Burst: 0
+_________GGGG____D__HPFJJ________A_QQQQQ_____TT__N____BBBBB_____UUUU____LLL______CKRRRR____OOOO____I__MMMMMMM___________ESGHPFAQTBUCKROESGHPFAQBUCKOEGPFABUCKOEPFAUCKEPFACKEPFACKEPFKEPF
+WaitTimes: [0, 0, 0, 0, 0, 0, 49, 27, 0, 76, 64, 89, 63, 47, 67, 97, 71, 75, 53, 114, 114]
+Average WaitTime: 47
+TurnaroundTimes: [1, 2, 1, 3, 1, 7, 52, 32, 2, 79, 71, 96, 71, 54, 75, 104, 78, 83, 61, 123, 123]
+Average TurnaroundTimes: 53
+Throughput: 21
+
+Run: 4
+J Arrival: 2 Burst: 2
+J Arrival: 2 Burst: 0
+C Arrival: 4 Burst: 4
+C Arrival: 4 Burst: 3
+H Arrival: 5 Burst: 2
+H Arrival: 5 Burst: 0
+Q Arrival: 7 Burst: 1
+Q Arrival: 7 Burst: 0
+B Arrival: 30 Burst: 1
+B Arrival: 30 Burst: 0
+S Arrival: 32 Burst: 3
+S Arrival: 32 Burst: 1
+L Arrival: 34 Burst: 3
+L Arrival: 34 Burst: 2
+T Arrival: 35 Burst: 5
+T Arrival: 35 Burst: 4
+A Arrival: 36 Burst: 4
+A Arrival: 36 Burst: 0
+U Arrival: 42 Burst: 4
+U Arrival: 42 Burst: 0
+M Arrival: 48 Burst: 7
+M Arrival: 48 Burst: 0
+N Arrival: 59 Burst: 9
+N Arrival: 59 Burst: 2
+I Arrival: 66 Burst: 8
+I Arrival: 66 Burst: 0
+E Arrival: 74 Burst: 4
+E Arrival: 74 Burst: 2
+D Arrival: 76 Burst: 1
+D Arrival: 76 Burst: 0
+P Arrival: 76 Burst: 5
+P Arrival: 76 Burst: 4
+O Arrival: 80 Burst: 2
+O Arrival: 80 Burst: 0
+K Arrival: 84 Burst: 10
+K Arrival: 84 Burst: 0
+F Arrival: 94 Burst: 2
+F Arrival: 94 Burst: 1
+G Arrival: 94 Burst: 5
+G Arrival: 94 Burst: 4
+R Arrival: 95 Burst: 6
+R Arrival: 95 Burst: 5
+C Arrival: 4 Burst: 3
+C Arrival: 4 Burst: 2
+S Arrival: 32 Burst: 1
+S Arrival: 32 Burst: 0
+L Arrival: 34 Burst: 2
+L Arrival: 34 Burst: 1
+T Arrival: 35 Burst: 4
+T Arrival: 35 Burst: 3
+N Arrival: 59 Burst: 2
+N Arrival: 59 Burst: 1
+E Arrival: 74 Burst: 2
+E Arrival: 74 Burst: 1
+P Arrival: 76 Burst: 4
+P Arrival: 76 Burst: 3
+F Arrival: 94 Burst: 1
+F Arrival: 94 Burst: 0
+G Arrival: 94 Burst: 4
+G Arrival: 94 Burst: 3
+R Arrival: 95 Burst: 5
+R Arrival: 95 Burst: 4
+C Arrival: 4 Burst: 2
+C Arrival: 4 Burst: 1
+L Arrival: 34 Burst: 1
+L Arrival: 34 Burst: 0
+T Arrival: 35 Burst: 3
+T Arrival: 35 Burst: 2
+N Arrival: 59 Burst: 1
+N Arrival: 59 Burst: 0
+E Arrival: 74 Burst: 1
+E Arrival: 74 Burst: 0
+P Arrival: 76 Burst: 3
+P Arrival: 76 Burst: 2
+G Arrival: 94 Burst: 3
+G Arrival: 94 Burst: 2
+R Arrival: 95 Burst: 4
+R Arrival: 95 Burst: 3
+C Arrival: 4 Burst: 1
+C Arrival: 4 Burst: 0
+T Arrival: 35 Burst: 2
+T Arrival: 35 Burst: 1
+P Arrival: 76 Burst: 2
+P Arrival: 76 Burst: 1
+G Arrival: 94 Burst: 2
+G Arrival: 94 Burst: 1
+R Arrival: 95 Burst: 3
+R Arrival: 95 Burst: 2
+T Arrival: 35 Burst: 1
+T Arrival: 35 Burst: 0
+P Arrival: 76 Burst: 1
+P Arrival: 76 Burst: 0
+G Arrival: 94 Burst: 1
+G Arrival: 94 Burst: 0
+R Arrival: 95 Burst: 2
+R Arrival: 95 Burst: 1
+R Arrival: 95 Burst: 1
+R Arrival: 95 Burst: 0
+__JJ__C_HH__Q_______________________B__SS__L_T_AAAA______UUUU______MMMMMMM___________NNNNNNN_______IIIIIIII________EE__DPOO______KKKKKKKKKK__________FGRCSLTNEPFGRCLTNEPGRCTPGRTPGRR
+WaitTimes: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 63, 8, 71, 42, 33, 107, 80, 40, 23, 23]
+Average WaitTime: 23
+TurnaroundTimes: [2, 2, 1, 1, 4, 4, 7, 8, 1, 2, 10, 66, 10, 74, 51, 37, 111, 85, 45, 28, 29]
+Average TurnaroundTimes: 27
+Throughput: 21
+
+Run: 5
+S Arrival: 3 Burst: 6
+S Arrival: 3 Burst: 0
+R Arrival: 14 Burst: 7
+R Arrival: 14 Burst: 2
+G Arrival: 19 Burst: 4
+G Arrival: 19 Burst: 2
+Q Arrival: 21 Burst: 3
+Q Arrival: 21 Burst: 0
+C Arrival: 24 Burst: 2
+C Arrival: 24 Burst: 0
+H Arrival: 30 Burst: 4
+H Arrival: 30 Burst: 3
+O Arrival: 30 Burst: 4
+O Arrival: 30 Burst: 3
+J Arrival: 40 Burst: 6
+J Arrival: 40 Burst: 0
+D Arrival: 41 Burst: 9
+D Arrival: 41 Burst: 8
+L Arrival: 42 Burst: 4
+L Arrival: 42 Burst: 2
+K Arrival: 44 Burst: 10
+K Arrival: 44 Burst: 3
+T Arrival: 51 Burst: 2
+T Arrival: 51 Burst: 0
+A Arrival: 53 Burst: 5
+A Arrival: 53 Burst: 0
+B Arrival: 70 Burst: 7
+B Arrival: 70 Burst: 5
+P Arrival: 72 Burst: 5
+P Arrival: 72 Burst: 4
+E Arrival: 73 Burst: 8
+E Arrival: 73 Burst: 6
+F Arrival: 75 Burst: 6
+F Arrival: 75 Burst: 0
+N Arrival: 83 Burst: 2
+N Arrival: 83 Burst: 0
+I Arrival: 86 Burst: 6
+I Arrival: 86 Burst: 4
+U Arrival: 88 Burst: 2
+U Arrival: 88 Burst: 1
+M Arrival: 91 Burst: 3
+M Arrival: 91 Burst: 2
+R Arrival: 14 Burst: 2
+R Arrival: 14 Burst: 1
+G Arrival: 19 Burst: 2
+G Arrival: 19 Burst: 1
+H Arrival: 30 Burst: 3
+H Arrival: 30 Burst: 2
+O Arrival: 30 Burst: 3
+O Arrival: 30 Burst: 2
+D Arrival: 41 Burst: 8
+D Arrival: 41 Burst: 7
+L Arrival: 42 Burst: 2
+L Arrival: 42 Burst: 1
+K Arrival: 44 Burst: 3
+K Arrival: 44 Burst: 2
+B Arrival: 70 Burst: 5
+B Arrival: 70 Burst: 4
+P Arrival: 72 Burst: 4
+P Arrival: 72 Burst: 3
+E Arrival: 73 Burst: 6
+E Arrival: 73 Burst: 5
+I Arrival: 86 Burst: 4
+I Arrival: 86 Burst: 3
+U Arrival: 88 Burst: 1
+U Arrival: 88 Burst: 0
+M Arrival: 91 Burst: 2
+M Arrival: 91 Burst: 1
+R Arrival: 14 Burst: 1
+R Arrival: 14 Burst: 0
+G Arrival: 19 Burst: 1
+G Arrival: 19 Burst: 0
+H Arrival: 30 Burst: 2
+H Arrival: 30 Burst: 1
+O Arrival: 30 Burst: 2
+O Arrival: 30 Burst: 1
+D Arrival: 41 Burst: 7
+D Arrival: 41 Burst: 6
+L Arrival: 42 Burst: 1
+L Arrival: 42 Burst: 0
+K Arrival: 44 Burst: 2
+K Arrival: 44 Burst: 1
+B Arrival: 70 Burst: 4
+B Arrival: 70 Burst: 3
+P Arrival: 72 Burst: 3
+P Arrival: 72 Burst: 2
+E Arrival: 73 Burst: 5
+E Arrival: 73 Burst: 4
+I Arrival: 86 Burst: 3
+I Arrival: 86 Burst: 2
+M Arrival: 91 Burst: 1
+M Arrival: 91 Burst: 0
+H Arrival: 30 Burst: 1
+H Arrival: 30 Burst: 0
+O Arrival: 30 Burst: 1
+O Arrival: 30 Burst: 0
+D Arrival: 41 Burst: 6
+D Arrival: 41 Burst: 5
+K Arrival: 44 Burst: 1
+K Arrival: 44 Burst: 0
+B Arrival: 70 Burst: 3
+B Arrival: 70 Burst: 2
+P Arrival: 72 Burst: 2
+P Arrival: 72 Burst: 1
+E Arrival: 73 Burst: 4
+E Arrival: 73 Burst: 3
+I Arrival: 86 Burst: 2
+I Arrival: 86 Burst: 1
+D Arrival: 41 Burst: 5
+D Arrival: 41 Burst: 4
+B Arrival: 70 Burst: 2
+B Arrival: 70 Burst: 1
+P Arrival: 72 Burst: 1
+P Arrival: 72 Burst: 0
+E Arrival: 73 Burst: 3
+E Arrival: 73 Burst: 2
+I Arrival: 86 Burst: 1
+I Arrival: 86 Burst: 0
+D Arrival: 41 Burst: 4
+D Arrival: 41 Burst: 3
+B Arrival: 70 Burst: 1
+B Arrival: 70 Burst: 0
+E Arrival: 73 Burst: 2
+E Arrival: 73 Burst: 1
+D Arrival: 41 Burst: 3
+D Arrival: 41 Burst: 2
+E Arrival: 73 Burst: 1
+E Arrival: 73 Burst: 0
+D Arrival: 41 Burst: 2
+D Arrival: 41 Burst: 1
+D Arrival: 41 Burst: 1
+D Arrival: 41 Burst: 0
+___SSSSSS___________RRRRR_____GG__QQQ___CC______HOJJJJJJ_________D_LL__KKKKKKK_______TT__AAAAA_________________BB__P_EE__FFFFFF________NN___II__UMRGHODLKBPEIUMRGHODLKBPEIMHODKBPEIDBPEIDBEDEDD
+WaitTimes: [0, 0, 0, 0, 0, 0, 0, 0, 11, 82, 81, 62, 20, 81, 82, 64, 48, 35, 52, 51, 84]
+Average WaitTime: 35
+TurnaroundTimes: [6, 3, 2, 6, 2, 5, 6, 2, 13, 89, 85, 66, 23, 85, 86, 74, 53, 41, 59, 59, 93]
+Average TurnaroundTimes: 40
+Throughput: 21
+
+Average WaitTime for 5 runs : 39
+Average TurnaroundTime for 5 runs : 44
+Average ResponseTime for 5 runs : 39
+Average Throughput for 5 runs : 21
